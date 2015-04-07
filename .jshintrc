@@ -1,0 +1,21 @@
+{
+  "node": true,
+  "bitwise": true,
+  "curly": true,
+  "eqeqeq": true,
+  "immed": true,
+  "indent": 2,
+  "latedef": "func",
+  "loopfunc": true,
+  "newcap": true,
+  "noarg": true,
+  "nonbsp": true,
+  "nonew": true,
+  "regexp": true,
+  "undef": true,
+  "unused": true,
+  "strict": true,
+  "undef": true,
+  "unused": true,
+  "trailing": true
+}

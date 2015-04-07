@@ -1,0 +1,20 @@
+{
+  "name": "visualtesting-service-stash",
+  "version": "0.0.1",
+  "description": "Stash service plugin for VisualTesting",
+  "main": "stash.js",
+  "dependencies": {
+    "chai": "^2.2.0",
+    "superagent": "^1.1.0",
+    "superagent-as-promised": "^3.1.1"
+  },
+  "devDependencies": {
+    "coveralls": "^2.11.2",
+    "istanbul": "^0.3.13",
+    "jscs": "^1.12.0",
+    "jshint": "^2.6.3",
+    "mocha": "^2.2.1",
+    "mocha-sinon": "^1.1.4",
+    "sinon": "^1.14.1"
+  }
+}
