@@ -96,4 +96,8 @@ StashService.prototype = {
   }
 };
 
+if (process.env.NODE_ENV === 'test') {
+  StashService.prototype.verifyConfig = verifyConfig;
+}
+
 module.exports = StashService;
